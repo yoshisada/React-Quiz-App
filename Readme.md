@@ -1,8 +1,8 @@
-# Week 5
+
 ## The quiz app
 
 ## Description
-In this lab, we will use what we learned and create a backend for a quiz app. We have a frontend for the quiz app, which will load all the quiz information and allow a user to select the answers and send them to receive a score. It doesn't work yet because there are some of the things you have to do.
+Implemented as a part of IBM Acellerate 2021 using React and Material-UI.  Not currently deployed due to github pages not supporting server and client deployments.
 
 ## Setup
 
